@@ -20,8 +20,8 @@ There are two files
 2. layout.py: The basic layout and visualization
 
 ## References
-https://dash.plotly.com
-https://github.com/jacquessham/StockAnalytics
-https://pypi.org/project/yfinance/
-https://github.com/jacquessham/StockAnalytics
-https://github.com/plotly/dash
+1. https://dash.plotly.com
+2. https://github.com/jacquessham/StockAnalytics
+3. https://pypi.org/project/yfinance/
+4. https://github.com/jacquessham/StockAnalytics
+5. https://github.com/plotly/dash

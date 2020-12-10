@@ -19,4 +19,9 @@ There are two files
 1. main.py: The driver program
 2. layout.py: The basic layout and visualization
 
-
+## References
+https://dash.plotly.com
+https://github.com/jacquessham/StockAnalytics
+https://pypi.org/project/yfinance/
+https://github.com/jacquessham/StockAnalytics
+https://github.com/plotly/dash
